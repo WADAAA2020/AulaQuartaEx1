@@ -1,0 +1,11 @@
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\bin\Debug\aula0212.exe.config
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\bin\Debug\aula0212.exe
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\bin\Debug\aula0212.pdb
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.csproj.AssemblyReference.cache
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.Form1.resources
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.Properties.Resources.resources
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.csproj.GenerateResource.cache
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.csproj.CoreCompileInputs.cache
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.exe
+C:\Users\mateus.agwada\source\repos\aula0212\aula0212\obj\Debug\aula0212.pdb
